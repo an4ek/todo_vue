@@ -39,3 +39,4 @@ SearchBar.vue
 — поиск задач
 ThemeToggle.vue
 — переключение темы
+##Ссылка на деплой: https://an4ek.github.io/todo_vue/##
